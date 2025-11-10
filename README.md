@@ -48,7 +48,8 @@ The following snapshots illustrate the dashboard's design and analytical layout:
 | Borrower Segmentation | ![Borrower Segmentation Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%203.png) |
 | Geographic Deep Dive | ![Geographic Deep Dive Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%205.png) |
 
-
+## ** Licensing **
+This project is released under the **Apache License 2.0**. Please review the [LICENSE]([LICENSE](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/LICENSE)) file for specific terms regarding attribution, liability, and redistribution.
 
 
 

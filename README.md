@@ -53,9 +53,4 @@ The following snapshots illustrate the dashboard's design and analytical layout:
 ## Power BI Service link
 Here is the link to the dashboard - [link](https://app.powerbi.com/links/OT4J8cUnim?ctid=d1244466-1f7c-462f-810c-84815a170943&pbi_source=linkShare) 
 
-## Licensing
-This project is released under the **Apache License 2.0**. Please review the [LICENSE]([LICENSE](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/LICENSE)) file for specific terms regarding attribution, liability, and redistribution.
-
-
-
 

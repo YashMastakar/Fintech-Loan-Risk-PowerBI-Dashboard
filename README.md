@@ -36,6 +36,8 @@ The goal was to create a single source of truth that allows analysts to **isolat
 * **Efficiency:** Automated the monthly risk reporting process, providing **near-real-time** insights and freeing up analyst time for strategic forecasting.
 
 ---
+### Dashboard file view
+Here is the link to the Power BI dashboard - [Link](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Fintech-Loan-Risk-Dashboard.pbit)
 
 ## 🖼️ Screenshots
 
@@ -48,10 +50,10 @@ The following snapshots illustrate the dashboard's design and analytical layout:
 | Borrower Segmentation | ![Borrower Segmentation Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%203.png) |
 | Geographic Deep Dive | ![Geographic Deep Dive Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%205.png) |
 
-## ** Power BI Service link **
+##Power BI Service link
 Here is the link to the dashboard - [link](https://app.powerbi.com/links/OT4J8cUnim?ctid=d1244466-1f7c-462f-810c-84815a170943&pbi_source=linkShare) 
 
-## ** Licensing **
+##Licensing
 This project is released under the **Apache License 2.0**. Please review the [LICENSE]([LICENSE](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/LICENSE)) file for specific terms regarding attribution, liability, and redistribution.
 
 

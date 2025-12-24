@@ -23,10 +23,10 @@ The goal was to create a single source of truth that allows analysts to **isolat
 
 ### 3. Walkthrough of Key Visuals (Briefly)
 * **Home page (Page 1):** [link to page 1](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%201%20(home_page).png)
-* **Executive Summary (Page 2):** Focuses on high-level health. The **Dual-Axis Chart (Volume vs. Default Trend)** immediately answers if growth is coming at the expense of loan quality. [link to page 2](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%202.png) 
-* **Credit Risk & Performance (Page 3):** Diagnoses the financial cost. Key visuals include the **Total Charged Off Amount KPI** (dollar loss) and a matrix linking risk grade to interest rate and funded amount. [link to page 3](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%202.png) 
-* **Borrower Segmentation (Page 4):** Identifies the riskiest customers. The matrix connects high-risk loan grades (F/G) to specific **Annual Income Groups** to pinpoint high-risk demographics. [link to page 4](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%203.png)
-* **Geographic Deep Dive (Page 5):** Provides spatial intelligence. The **Filled Map** and detailed scorecards allow for granular analysis of loss performance by specific regions and states. [link to page 5](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%205.png)
+* **Executive Summary (Page 2):** Focuses on high-level health. The **Dual-Axis Chart (Volume vs. Default Trend)** immediately answers if growth is coming at the expense of loan quality. [link to page 2](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%202.png)
+* **Credit Risk & Performance (Page 3):** Diagnoses the financial cost. Key visuals include the **Total Charged Off Amount KPI** (dollar loss) and a matrix linking risk grade to interest rate and funded amount. [link to page 3](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%203.png)
+* **Borrower Segmentation (Page 4):** Identifies the riskiest customers. The matrix connects high-risk loan grades (F/G) to specific **Annual Income Groups** to pinpoint high-risk demographics. [link to page 4](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%204.png)
+* **Geographic Deep Dive (Page 5):** Provides spatial intelligence. The **Filled Map** and detailed scorecards allow for granular analysis of loss performance by specific regions and states. [link to page 5](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%205.png)
 
 ### 4. Business Impact & Insights
 

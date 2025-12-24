@@ -45,10 +45,11 @@ The following snapshots illustrate the dashboard's design and analytical layout:
 
 | Page Name | Screenshot |
 | :--- | :--- |
-| Executive Summary | ![Executive Summary Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%202.png) |
-| Credit Risk & Performance | ![Credit Risk Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%202.png) |
-| Borrower Segmentation | ![Borrower Segmentation Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%203.png) |
-| Geographic Deep Dive | ![Geographic Deep Dive Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-Dashboard/blob/main/Snapshot%20of%20page%205.png) |
+| Home Page| ![Home Page](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%201%20(home_page).png) |
+| Executive Summary | ![Executive Summary Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%202.png) |
+| Credit Risk & Performance | ![Credit Risk Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%203.png) |
+| Borrower Segmentation | ![Borrower Segmentation Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%204.png) |
+| Geographic Deep Dive | ![Geographic Deep Dive Snapshot](https://github.com/YashMastakar/Fintech-Loan-Risk-PowerBI-Dashboard/blob/main/Snapshot%20of%20page%205.png) |
 
 ## Power BI Service link
 Here is the link to the dashboard - [link](https://app.powerbi.com/links/OT4J8cUnim?ctid=d1244466-1f7c-462f-810c-84815a170943&pbi_source=linkShare) 

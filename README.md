@@ -54,4 +54,8 @@ The following snapshots illustrate the dashboard's design and analytical layout:
 ## Power BI Service link
 Here is the link to the dashboard - [link](https://app.powerbi.com/links/OT4J8cUnim?ctid=d1244466-1f7c-462f-810c-84815a170943&pbi_source=linkShare) 
 
+📄 **License:** This project is licensed under CC BY-NC-ND 4.0.  
+Commercial use or redistribution without permission is prohibited.
+
+
 
